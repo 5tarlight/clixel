@@ -1,0 +1,6 @@
+# ninja log v5
+1	12	0	/Users/yeahx4/coding/clixel/cmake-build-debug/CMakeFiles/cmake.verify_globs	9e46957dddcbea8d
+434	472	1689591305362088670	bin/program	e4ded5da1a38cfe1
+0	154	1689591305040201829	clixel/CMakeFiles/program.dir/ui/Display.cpp.o	1affc8b22c317f79
+0	400	1689591305287939285	clixel/CMakeFiles/program.dir/data/Cell.cpp.o	14eaa0d912987358
+0	434	1689591305322799555	clixel/CMakeFiles/program.dir/main.cpp.o	25e5d62e143ae24e

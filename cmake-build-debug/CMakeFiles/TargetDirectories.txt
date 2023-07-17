@@ -1,0 +1,5 @@
+/Users/yeahx4/coding/clixel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yeahx4/coding/clixel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yeahx4/coding/clixel/cmake-build-debug/clixel/CMakeFiles/program.dir
+/Users/yeahx4/coding/clixel/cmake-build-debug/clixel/CMakeFiles/edit_cache.dir
+/Users/yeahx4/coding/clixel/cmake-build-debug/clixel/CMakeFiles/rebuild_cache.dir
