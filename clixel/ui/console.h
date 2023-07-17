@@ -3,6 +3,7 @@
 #include <iostream>
 #include <string>
 #include <utility>
+#include <string>
 
 void print(const char *str) { std::cout << str; }
 void print(std::string str) { std::cout << str; }
@@ -25,4 +26,11 @@ std::pair<int, int> readIntPair() {
     std::cin >> a >> b;
 
     return std::make_pair(a, b);
+}
+
+std::string readLine() {
+    std::string str;
+    std::cin >> str;
+
+    return str;
 }

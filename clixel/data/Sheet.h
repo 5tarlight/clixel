@@ -4,16 +4,20 @@
 #define CLIXEL_SHEET_H
 
 #include "Cell.h"
+#include <vector>
 
 class Sheet {
 private:
     Cell **data;
-    int width;
-    int height;
+    int row;
+    int column;
 
 public:
-    Sheet(int width, int height);
+    Sheet(int row, int column);
     ~Sheet();
+    std::vector<Cell> operator[](int index) const;
+    void set(int r, int c, const std::string& value);
+    void set(int r, int c, const char *value);
 };
 
 

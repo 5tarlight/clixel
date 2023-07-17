@@ -15,4 +15,5 @@ public:
 
   void setData(std::string str);
   void setData(const char *str);
+  std::string get() { return  this->data; }
 };
